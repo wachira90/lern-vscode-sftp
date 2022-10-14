@@ -3,7 +3,7 @@ lern-vscode-sftp
 
 ## create folder .vscode
 
-### D:\dev\python\rest-app\.vscode\sftp.json
+### D:\dev\python\rest-app\.vscode\sftp.json   (mypc)
 
 ````
 {
@@ -13,7 +13,7 @@ lern-vscode-sftp
     "port": 22,
     "secure": true,
     "username": "username",
-    "remotePath": "/home/django/rest-test/",
+    "remotePath": "/home/django/rest-test/",  // <-- SERVER DIRECTORY -->
     "password": "password",
     "uploadOnSave": false
 }
